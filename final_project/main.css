@@ -1,0 +1,67 @@
+body {
+  font-family: "Oswald", sans-serif;
+  max-width: 100rem;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.navbar {
+  background-color: red;
+  color: white;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 50%;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+}
+
+h1 {
+  font-style: bold;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-size: 20px;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+.oswald-schmitt {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+.nunito-schmitt {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
